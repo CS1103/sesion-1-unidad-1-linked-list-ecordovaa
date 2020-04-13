@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="poo2_2020_1_linked_list" targetName="poo2_2020_1_linked_list" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa75fbee-4f9f-40c5-801f-1363eb363c7a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aOXvNx9nwP2ZsmRANPcIcIIeya" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="poo2_2020_1_linked_list" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="poo2_2020_1_linked_list" TARGET_NAME="poo2_2020_1_linked_list" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="poo2_2020_1_linked_list" RUN_TARGET_NAME="poo2_2020_1_linked_list">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa75fbee-4f9f-40c5-801f-1363eb363c7a" name="Default Changelist" comment="" />
+      <created>1586607843571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586607843571</updated>
+      <workItem from="1586607845248" duration="6893000" />
+      <workItem from="1586618088826" duration="114000" />
+      <workItem from="1586618795920" duration="419000" />
+      <workItem from="1586619232151" duration="241000" />
+      <workItem from="1586652303209" duration="645000" />
+      <workItem from="1586708048080" duration="2071000" />
+      <workItem from="1586710136478" duration="22474000" />
+      <workItem from="1586739709856" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="110" width="380" height="564" key="#com.intellij.ide.util.MemberChooser" timestamp="1586610600437">
+      <screen x="0" y="31" width="1280" height="720" />
+    </state>
+    <state x="446" y="110" width="380" height="564" key="#com.intellij.ide.util.MemberChooser/0.31.1280.720@0.31.1280.720" timestamp="1586610600437" />
+    <state width="1228" height="168" key="GridCell.Tab.0.bottom" timestamp="1586615223986">
+      <screen x="0" y="31" width="1280" height="720" />
+    </state>
+    <state width="1228" height="168" key="GridCell.Tab.0.bottom/0.31.1280.720@0.31.1280.720" timestamp="1586615223986" />
+    <state width="1228" height="168" key="GridCell.Tab.0.center" timestamp="1586615223986">
+      <screen x="0" y="31" width="1280" height="720" />
+    </state>
+    <state width="1228" height="168" key="GridCell.Tab.0.center/0.31.1280.720@0.31.1280.720" timestamp="1586615223986" />
+    <state width="1228" height="168" key="GridCell.Tab.0.left" timestamp="1586615223985">
+      <screen x="0" y="31" width="1280" height="720" />
+    </state>
+    <state width="1228" height="168" key="GridCell.Tab.0.left/0.31.1280.720@0.31.1280.720" timestamp="1586615223985" />
+    <state width="1228" height="168" key="GridCell.Tab.0.right" timestamp="1586615223986">
+      <screen x="0" y="31" width="1280" height="720" />
+    </state>
+    <state width="1228" height="168" key="GridCell.Tab.0.right/0.31.1280.720@0.31.1280.720" timestamp="1586615223986" />
+  </component>
+</project>
